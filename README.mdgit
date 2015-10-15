@@ -1,0 +1,1 @@
+# FitLivin  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/SCCapstone/FitLivin.gitgit push -u origin master
